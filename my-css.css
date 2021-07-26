@@ -1,6 +1,11 @@
-.my-style-3{
-    color: blue;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+.my-style-3 {
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-style: italic;
-    background-color: burlywood;
+    background-color: lightblue;
+}
+
+.my-style-4 {
+    color:darkgoldenrod;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
